@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pepe Gomez pepegomez2001@hotmail.com
 
 # THANKS
 
