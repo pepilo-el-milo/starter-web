@@ -1,6 +1,6 @@
 # Starter Web Project
 
-this is a simple project. And I will add this
+this is a simple project. And I will add this. And changes from myfeatured branch
 
 ## Introduction
 
