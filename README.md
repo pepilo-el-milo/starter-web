@@ -16,3 +16,5 @@ The deployment
 
 ## How to Contribute
 
+### Copyright
+
